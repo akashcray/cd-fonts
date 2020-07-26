@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+
+body{
+	padding: 0;
+	margin: 0;
+}
+.online-fonts{}
+.online-fonts h1{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	color: #fff;
+	background-color: #006d77;
+	padding: 10px;
+	text-transform: uppercase;
+}
+/*serif*/
+.serif-fonts{}
+.serif-fonts h2{
+	font-family: 'PT Serif', serif;
+	display: inline-block;
+	font-size: 25px;
+	font-weight: 400;
+	font-style: italic;
+	color: #fff;
+	background-color: #ef476f;
+	padding: 5px 20px;
+	border-left: 5px solid #ffeb6c;
+
+}
+.serif-fonts p{
+	font-family: 'PT Serif', serif;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 25px;
+	word-spacing: 1px;
+	margin: 0px 30px;
+	padding: 10px;
+	border: 1px solid #f7f7f7;
+	box-shadow: 0px 0px 10px 1px #f3f3f3;
+}
+
+/*sans-serif*/
+
+.sans-serif-fonts{}
+.sans-serif-fonts h2{
+	font-family: 'Lato', sans-serif;
+	display: inline-block;
+	font-size: 25px;
+	font-weight: 400;
+	font-style: italic;
+	color: #fff;
+	background-color: #ef476f;
+	padding: 5px 20px;
+	border-left: 5px solid #ffeb6c;
+}
+.sans-serif-fonts p{
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 25px;
+	word-spacing: 1px;
+	margin: 0px 30px;
+	padding: 10px;
+	border: 1px solid #f7f7f7;
+	box-shadow: 0px 0px 10px 1px #f3f3f3;
+}
